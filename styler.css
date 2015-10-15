@@ -1,0 +1,58 @@
+// styling the basic tags.
+
+body{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+a{
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	color:#000099;
+	font-size:14px;
+	text-align:justify;
+}
+
+p{
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	color:#000033;
+	font-size:16px;
+	text-align:justify;
+}
+
+input{
+	background-color:#99cccc;
+	text-align:justify;
+	color:#003366;
+}
+
+select{
+	background-color:#99cccc;
+	color:#003366;
+}
+
+// styling the classes.
+
+.MOver{
+	background-color:#003366;
+	color:#669999;
+	text-align:center;
+}
+
+.MOut{
+	background-color:#669999;
+	color:#003366;
+	text-align:center;
+}
+
+.Buttontable{
+	border-spacing:inherit;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+.bodytext{
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	color:#000066;
+	font-size:14px;
+	text-align:justify;
+	background-image:url(imgs/tblbackimg.jpg);
+}
